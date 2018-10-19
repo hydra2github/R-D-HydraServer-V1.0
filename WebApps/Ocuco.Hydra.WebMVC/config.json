@@ -1,0 +1,19 @@
+{
+    "Colors": {
+        "Favorite": "blue"
+    },
+    "ConnectionStrings": {
+        "DutchConnectionString": "Server=tcp:hydrahubdb.database.windows.net,1433;Initial Catalog=hydrasqldb;Persist Security Info=False;User ID=ocuco;Password=dept_star!azure1;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Information"
+        }
+    },
+    "Tokens": {
+        "Key": "d.gm-sfgmdfs-.gmd-.gddfgds",
+        "Issuer": "http://localhost:8889",
+        "Audience": "users"
+    }
+}
