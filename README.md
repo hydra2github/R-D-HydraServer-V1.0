@@ -1,3 +1,11 @@
+![Ocuco.Hydra.Prototype logo](https://github.com/hydra2github/Ocuco.Hydra.Images/blob/master/Logos.and.images/Hydra.Hub.for.Git.backend.png)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+
+[![Release](https://img.shields.io/badge/Version-1.0-green.svg)]()
+[![Platform](https://img.shields.io/badge/platform-win--64-lightgrey.svg)]()
+
+
 # R-D-HydraServer-V1.0
 
 Research & Development .NET Core solution. 
@@ -29,7 +37,11 @@ Open the solution and restore packages
 * [Bootstrap 4.0](https://getbootstrap.com/) - Layout
 
 
-## Versioning
+## History and Versioning
+
+Based on a PluralSight course :
+Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
+by Shawn Wildermuth
 
 .NET Core/ASP.NET Core Web Application progression. 
 
