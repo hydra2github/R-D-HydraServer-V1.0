@@ -37,15 +37,17 @@ Open the solution and restore packages
 * [Bootstrap 4.0](https://getbootstrap.com/) - Layout
 
 
-## History and Versioning
-
-Based on a PluralSight course :
-Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
-by Shawn Wildermuth
+## Release History
 
 .NET Core/ASP.NET Core Web Application progression. 
 
-* Ocuco.Hydra.WebMVC - (.NET Core 2.0)
+> ## v1.0
+> 
+> - Created
+>     * Ocuco.Hydra.WebMVC - (.NET Core 2.0)
+
+> Note: Based on a PluralSight course : Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular by Shawn Wildermuth
+
 
 ## Authors
 
